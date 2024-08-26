@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Autodidac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
 
 
 <!---
