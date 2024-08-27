@@ -13,7 +13,7 @@ Such as my [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSys
 Or my work on a [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine). And more...
 
 Feel free to explore my repositories and connect with me!
-- [My GitHub Repositories](https://github.com/Autodidac)
+- [My GitHub Repositories](https://github.com/Autodidac?tab=repositories)
 
 <!---
 Autodidac/Autodidac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
