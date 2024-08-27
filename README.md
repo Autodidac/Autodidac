@@ -14,7 +14,7 @@ Or my work on a [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEng
 
 Feel free to explore my repositories and connect with me!
 - [My GitHub Repositories](https://github.com/Autodidac)
-- 
+
 <!---
 Autodidac/Autodidac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
