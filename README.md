@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Autodidac
 
-I’m a passionate developer with experience in:
+I’m a passionate 44yr old - game developer with experience in:
 
 - **Web Design**: HTML5, CSS, Javascript, Etc...
 - **Programming Languages**: C++, C#, Python, Lua.
