@@ -5,7 +5,7 @@ I’m a passionate developer with experience in:
 - **Web Design**: HTML
 - **Programming Languages**: C++, C#
   
-I specialize in contemporary C++ and enjoy working with C++20 and C++23.
+I specialize in contemporary C++ and enjoy working with C++20 and looking forward to C++23 and modules.
 I’m excited to tackle new challenges and work on innovative projects.
 
 Such as my [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem) System based on the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems.
