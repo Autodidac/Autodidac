@@ -6,7 +6,6 @@ I’m a passionate developer with experience in:
 - **Programming Languages**: C++, C#, Python, Lua.
   
 I specialize in contemporary C++ and enjoy working with C++20 and looking forward to C++23 with modules.
-
 I'm an Autodidac Independant Game Developer
 (currently working primarily with WickedEngine for Rendering, Physics, Scripting, Network, and Audio.)
 
