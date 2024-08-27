@@ -15,6 +15,9 @@ Such as my [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSys
 
 Or my work on a [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine). And so much more, some even lost to time...
 
+
+ALL of my projects are the result of a surge in productivity because of a certain digital assistant that has been making life wonderful.
+
 Feel free to explore my repositories and connect with me!
 - [My GitHub Repositories](https://github.com/Autodidac?tab=repositories)
 
