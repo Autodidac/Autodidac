@@ -18,6 +18,8 @@ Or my work on a [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEng
 
 ALL of my projects are the result of a surge in productivity because of a certain digital assistant that has been making life wonderful.
 
+And I like to build modular systems that can all plug and play with each other nicely for hopefully many future projects to come.
+
 Feel free to explore my repositories and connect with me!
 - [My GitHub Repositories](https://github.com/Autodidac?tab=repositories)
 
