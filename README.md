@@ -8,8 +8,11 @@ I’m a passionate developer with experience in:
 I specialize in contemporary C++ and enjoy working with C++20 and C++23.
 I’m excited to tackle new challenges and work on innovative projects.
 
-Such as my Tree Generator System based on the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems.
-- [My GitHub Repositories](https://github.com/Autodidac)
+Such as my [Tree Generator System]([https://github.com/Autodidac/WickedTwoOLSystem](https://github.com/Autodidac/WickedTwoOLSystem)) based on the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems.
+
+Or my work with a [Free C++ Voxel Engine]([https://github.com/Autodidac/CppVoxelEngine](https://github.com/Autodidac/CppVoxelEngine)).
+
+And more...
 
 Feel free to explore my repositories and connect with me!
 - [My GitHub Repositories](https://github.com/Autodidac)
