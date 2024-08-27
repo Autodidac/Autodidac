@@ -10,9 +10,7 @@ I’m excited to tackle new challenges and work on innovative projects.
 
 Such as my [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem) System based on the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems.
 
-Or my work with a [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine).
-
-And more...
+Or my work on a [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine). And more...
 
 Feel free to explore my repositories and connect with me!
 - [My GitHub Repositories](https://github.com/Autodidac)
