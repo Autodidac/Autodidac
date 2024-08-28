@@ -1,27 +1,39 @@
 # 👋 Hi, I’m @Autodidac
 
-I’m a passionate 44yr old - game developer with experience in:
+I’m a passionate 44-year-old game developer with experience in:
 
-- **Web Design**: HTML5, CSS, Javascript, Etc...
+- **Web Design**: HTML5, CSS, JavaScript, and more.
 - **Programming Languages**: C++, C#, Python, Lua.
-  
-I specialize in contemporary C++ and enjoy working with C++20 and looking forward to C++23 with modules.
-I'm an Autodidac Independant Game Developer
-(currently working primarily with WickedEngine for Rendering, Physics, Scripting, Network, and Audio.)
 
-I’m excited to tackle new challenges and work on innovative projects.
+I specialize in contemporary C++ and enjoy working with C++20, eagerly anticipating C++23 with its exciting new features like modules. As an autodidact independent game developer, I’m currently leveraging **WickedEngine** for rendering, physics, scripting, networking, and audio in my projects.
 
-Such as my [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem) System based on the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems.
+### 🚀 What I'm Working On
 
-Or my work on a [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine). And so much more, some even lost to time...
+I'm always excited to tackle new challenges and innovate through my projects. Some of the highlights include:
 
+- **[Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)**: A system inspired by the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems, designed for generating complex and realistic tree geometries.
 
-ALL of my projects are the result of a surge in productivity because of a certain digital assistant that has been making life wonderful.
+- **[Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)**: A fully open-source voxel engine written in C++, allowing for the creation of dynamic, block-based worlds.
 
-And I like to build modular systems that can all plug and play with each other nicely for hopefully many future projects to come.
+- **Modular System Development**: I love designing modular systems that seamlessly integrate and interact with each other, laying a strong foundation for future projects.
 
-Feel free to explore my repositories and connect with me!
-- [My GitHub Repositories](https://github.com/Autodidac?tab=repositories)
+I am driven by a surge in productivity, thanks to a certain digital assistant that has been instrumental in making development life much more enjoyable.
+
+### 🌱 Always Learning
+
+I thrive on learning new things and constantly improving my skills, especially in the realms of game development and high-performance programming. I'm always open to exploring cutting-edge technologies and methodologies to push the boundaries of what can be achieved.
+
+### 🎯 Goals
+
+- Continue expanding my knowledge in contemporary C++ and explore C++23's new features.
+- Develop more sophisticated tools and engines for game development.
+- Foster a community of like-minded developers to collaborate on exciting projects.
+
+### 🔗 Connect with Me
+
+Feel free to explore my repositories, contribute, or reach out if you want to collaborate on an exciting project!
+
+- [Explore My GitHub Repositories](https://github.com/Autodidac?tab=repositories)
 
 <!---
 Autodidac/Autodidac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
