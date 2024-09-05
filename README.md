@@ -7,7 +7,7 @@ I’m a passionate 40-something-year-old game developer with experience in:
 - **Web Design**: HTML5, CSS, JavaScript, and more.
 - **Programming Languages**: C++, C#, Python, Lua.
 
-I specialize in contemporary C++ and enjoy working with C++20, eagerly anticipating C++23 with its exciting new features like modules. As an autodidact independent game developer, I’m currently leveraging **WickedEngine** for rendering, physics, scripting, networking, and audio in my projects.
+I specialize in contemporary C++ and enjoy working with C++20, eagerly anticipating C++23 with its exciting new features like modules. As an Autodidact Independent Game Developer, I’m currently leveraging **WickedEngine** for rendering, physics, scripting, networking, and audio in my projects.
 
 ### 🚀 What I'm Working On
 
