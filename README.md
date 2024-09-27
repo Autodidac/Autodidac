@@ -2,6 +2,9 @@
 
 ATTENTION ONE THING YOU NEED TO UNDERSTAND IS THAT I'M USING AI TO CREATE A MASSIVE REPO AND 90% OF THIS STUFF MIGHT BE INOPERABLE STATE RIGHT NOW.. BUT SOMEDAY I SHALL FINISH, STAY TUNED!
 
+I've completely rebuilt the Job System and CrossView from the ground up and wor continues, Almond Engine is going to be released alpha 0.0.1 in the next few weeks, possibly without rendering even at first.
+I just want to give a little update because the repos are a bit archaic at the moment.
+
 I’m a passionate 40-something-year-old game developer with experience in:
 
 - **Web Design**: HTML5, CSS, JavaScript, and more.
