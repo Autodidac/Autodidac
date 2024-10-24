@@ -41,21 +41,21 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
  An x64-bit Crossplatform C++20 Modern Game Engine. For literally everyone and everything. (state your changes)
 
 
+```cpp
+📂 **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**
+├── 📂 **[Almond Shell](https://github.com/Autodidac/AlmondShell)** 
+│   └── A modular plugin system, adding flexibility and creativity to Almond Core.
+│
+├── 📂 **[Almond Core](https://github.com/Autodidac/AlmondCore)** 
+│   └── A system for building the foundation of the game engine, enabling custom rendering systems.
+│
+└── 📂 **[CrossView](https://github.com/Autodidac/CrossView)**
+    └── A cross-platform entry-point library for building on modern C++.
 
-- 📂 **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**
-- ├── 📂 **[Almond Shell](https://github.com/Autodidac/AlmondShell)** 
-- │   └── A modular plugin system, adding flexibility and creativity to Almond Core.
-- │
-- ├── 📂 **[Almond Core](https://github.com/Autodidac/AlmondCore)** 
-- │   └── A system for building the foundation of the game engine, enabling custom rendering systems.
-- │
-- └── 📂 **[CrossView](https://github.com/Autodidac/CrossView)**
--    └── A cross-platform entry-point library for building on modern C++.
-
-- 📂 **Other Projects**
-- ├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
-- └── [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)
-
+📂 **Other Projects**
+├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
+└── [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)
+```
 ----------------
 
 - **[Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)**: A system inspired by the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems, designed for generating complex and realistic tree geometries.
