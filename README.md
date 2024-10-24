@@ -22,21 +22,21 @@ I'm always excited to tackle new challenges and innovate through my projects. So
 
 
 ---
-- **[Almond Core](https://github.com/Autodidac/AlmondCore)**:
+------ **[Almond Core](https://github.com/Autodidac/AlmondCore)**:
 
  A system inspired by allowing others to create beautiful things with the core of a game engine and allow them to create their own rendering systems while leveraging the power of Almond Engine.
  
 
 ---
 
--------------------------------------------------  **[Almond Shell](https://github.com/Autodidac/AlmondShell)**:
+--------  **[Almond Shell](https://github.com/Autodidac/AlmondShell)**:
                     
-----------------------------------------------------A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X Programs, and Modular systems, Almond Core + A Plugin Mod System to disable the limits of creativity with Almond Engine and Almond Core.
+A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X Programs, and Modular systems, Almond Core + A Plugin Mod System to disable the limits of creativity with Almond Engine and Almond Core.
                      
 
 ---
 
-- **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**:
+------------ **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**:
 
  An x64-bit Crossplatform C++20 Modern Game Engine. For literally everyone and everything. (state your changes)
 
