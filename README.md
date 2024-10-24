@@ -36,7 +36,7 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 
 ---
 
-----------------|||| **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**:
+------------|||| **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**:
 
  An x64-bit Crossplatform C++20 Modern Game Engine. For literally everyone and everything. (state your changes)
 
