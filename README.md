@@ -29,7 +29,7 @@ I'm always excited to tackle new challenges and innovate through my projects. So
 
 ---
 
-- **[Almond Shell](https://github.com/Autodidac/AlmondShell)**:
+-  **[Almond Shell](https://github.com/Autodidac/AlmondShell)**:
 
  A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X Programs, and Modular systems, Almond Core + A Plugin Mod System to disable the limits of creativity with Almond Engine and Almond Core.
  
@@ -42,6 +42,7 @@ I'm always excited to tackle new challenges and innovate through my projects. So
 
 
 ---
+
 ----------------
 
 - **[Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)**: A system inspired by the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems, designed for generating complex and realistic tree geometries.
