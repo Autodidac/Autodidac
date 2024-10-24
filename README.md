@@ -16,7 +16,8 @@ I specialize in contemporary C++ and enjoy working with C++20, eagerly anticipat
 
 I'm always excited to tackle new challenges and innovate through my projects. Some of the highlights include:
 
-- **[Bare Bones Crossplatform Entrypoint Library](https://github.com/Autodidac/CrossView)**: A system similar to xwindow in the spirit of Modern C++ and crossplatform software development.
+- **[Bare Bones Crossplatform Entrypoint Library](https://github.com/Autodidac/CrossView)**
+: A system similar to xwindow in the spirit of Modern C++ and crossplatform software development.
 
 - **[Almond Core](https://github.com/Autodidac/AlmondCore)**: A system inspired by allowing others to create beautiful things with the core of a game engine and allow them to create their own rendering systems while leveraging the power of Almond Engine.
 
