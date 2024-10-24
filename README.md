@@ -16,6 +16,16 @@ I specialize in contemporary C++ and enjoy working with C++20, eagerly anticipat
 
 I'm always excited to tackle new challenges and innovate through my projects. Some of the highlights include:
 
+- **[Bare Bones Crossplatform Entrypoint Library](https://github.com/Autodidac/CrossView)**: A system inspired by xwindow in the spirit of crossplatform.
+
+- **[Almond Core](https://github.com/Autodidac/AlmondCore)**: A system inspired by allowing others to create beautiful things with the core of a game engine and allow them to create their own rendering systems while leveraging the power of Almond Engine.
+
+- **[Almond Shell](https://github.com/Autodidac/AlmondShell)**: A system inspired by the concepts of Java JRE, AutoRun executables, Modular systems, Almond Core + A Plugin Mod System to disable the limits of creativity with Almond Engine and Almond Core.
+
+- **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**: An x64-bit Crossplatform C++20 Modern Game Engine. For literally everyone and everything.
+
+----------------
+
 - **[Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)**: A system inspired by the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems, designed for generating complex and realistic tree geometries.
 
 - **[Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)**: A fully open-source voxel engine written in C++, allowing for the creation of dynamic, block-based worlds.
