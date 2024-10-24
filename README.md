@@ -52,9 +52,9 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 - └── 📂 **[CrossView](https://github.com/Autodidac/CrossView)**
 -    └── A cross-platform entry-point library for building on modern C++.
 
-📂 **Other Projects**
-├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
-└── [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)
+- 📂 **Other Projects**
+- ├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
+- └── [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)
 
 ----------------
 
