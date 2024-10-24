@@ -51,15 +51,17 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 - └── 📂 **[CrossView](https://github.com/Autodidac/CrossView)**
 -    └── A cross-platform entry-point library for building on modern C++.
 
-- 📂 **Other Projects**
-- ├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
-- └── [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)
-
 ----------------
 
 - **[Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)**: A system inspired by the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems, designed for generating complex and realistic tree geometries.
 
 - **[Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)**: A fully open-source voxel engine written in C++, allowing for the creation of dynamic, block-based worlds.
+
+
+- 📂 **Other Projects**
+- ├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
+- └── [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)
+
 
 - **Modular System Development**: I love designing modular systems that seamlessly integrate and interact with each other, laying a strong foundation for future projects.
 
