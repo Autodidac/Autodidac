@@ -18,7 +18,7 @@ I'm always excited to tackle new challenges and innovate through my projects. So
 
 - **[Bare Bones Crossplatform Entrypoint Library](https://github.com/Autodidac/CrossView)**:
   
-  A system similar to xwindow in the spirit of Modern C++ and crossplatform software development. (vc studio + vs code)
+  A system similar to xwindow in the spirit of Modern C++ as a core crossplatform software development base. (vc studio + vs code)
 
 
 ---
