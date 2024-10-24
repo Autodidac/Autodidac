@@ -42,15 +42,16 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 
 
 ---
-📂 **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**
-├── 📂 **[Almond Core](https://github.com/Autodidac/AlmondCore)** 
-│   └── A system for building the foundation of the game engine, enabling custom rendering systems.
-│
-├── 📂 **[Almond Shell](https://github.com/Autodidac/AlmondShell)** 
-│   └── A modular plugin system, adding flexibility and creativity to Almond Core.
-│
-└── 📂 **[CrossView](https://github.com/Autodidac/CrossView)** 
-    └── A cross-platform entry-point library for building on modern C++.
+
+- 📂 **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**
+- ├── 📂 **[Almond Core](https://github.com/Autodidac/AlmondCore)** 
+- │   └── A system for building the foundation of the game engine, enabling custom rendering systems.
+- │
+- ├── 📂 **[Almond Shell](https://github.com/Autodidac/AlmondShell)** 
+- │   └── A modular plugin system, adding flexibility and creativity to Almond Core.
+- │
+- └── 📂 **[CrossView](https://github.com/Autodidac/CrossView)**
+-    └── A cross-platform entry-point library for building on modern C++.
 
 📂 **Other Projects**
 ├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
