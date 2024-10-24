@@ -49,7 +49,7 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 - │   └── A system for building the foundation of the game engine, enabling custom rendering systems.
 - │
 - └── 📂 **[CrossView](https://github.com/Autodidac/CrossView)**
--    └── A cross-platform entry-point library for building on modern C++.
+-    └── A cross-platform entry-point library for building on x64bit modern C++20 and above. (2024)
 
 ----------------
 
