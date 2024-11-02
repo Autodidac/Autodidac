@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adam Rushford @Autodidac
 
-ATTENTION ONE THING YOU NEED TO UNDERSTAND IS THAT I'M USING AI TO CREATE A MASSIVE REPO AND 90% OF THIS STUFF MIGHT BE INOPERABLE STATE RIGHT NOW.. BUT SOMEDAY I SHALL FINISH, STAY TUNED!
+I think it's safe to take down my under construction warning... avoid actually using projects marked with WIP (work in progress) you can star or watch them for now and use them when that tag is removed.
 
 I've completely rebuilt the Job System and CrossView from the ground up and work on all repos continues, Almond Engine is going to be released alpha 0.0.1 in the next few weeks.
 I just want to give a little update because the repos are a bit archaic at the moment.
