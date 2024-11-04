@@ -9,9 +9,7 @@ https://youtube.com/@adamrushford
 
 
 I think it's safe to take down my under construction warning... avoid actually using projects marked with WIP (work in progress) you can star or watch them for now and use them when that tag is removed.
-
-I've completely rebuilt the Job System and CrossView from the ground up and work on all repos continues, Almond Engine is going to be released alpha 0.0.1 in the next few weeks.
-I just want to give a little update because the repos are a bit archaic at the moment.
+I've completely rebuilt the Job System and CrossView from the ground up and work on all repos continues.
 
 I’m a passionate 40-something-year-old game developer with experience in:
 
