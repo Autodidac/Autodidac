@@ -16,7 +16,7 @@ I’m A Passionate Autodidactic Xennial Independent C++ Game Dev and Tuber with 
 - **Web Design**: HTML5, CSS, JavaScript, and more.
 - **Programming Languages**: C++, C#, Python, Lua.
 
-I specialize in contemporary C++ and enjoy working with C++20, eagerly anticipating C++23 with its exciting new features like modules. As an Autodidact Independent Game Developer, I am now well on my way building my own open source free game engine for use in my projects and everyone else's!!!!
+I specialize in C++ and eagerly anticipate C++23 with its exciting new features like modules. As an Independent Game Developer, I am now well on my way building my own open source free game engine for use in my projects and everyone else's!
 
 ### 🚀 What I'm Working On
 
