@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Adam Rushford @Autodidac
 
 [![Subscribe To My Youtube For Updates!](/images/youtube.png?raw=true)](https://youtube.com/@adamrushford)
-
+@adamrushford
 
 
 
