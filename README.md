@@ -11,7 +11,7 @@ https://youtube.com/@adamrushford
 I think it's safe to take down my under construction warning... avoid actually using projects marked with WIP (work in progress) you can star or watch them for now and use them when that tag is removed.
 I've completely rebuilt the Job System and CrossView from the ground up and work on all repos continues.
 
-I’m a passionate Autodidactic Xennial Independent C++ Game Dev and Tuber with experience in:
+I’m A Passionate Autodidactic Xennial Independent C++ Game Dev and Tuber with experience in:
 
 - **Web Design**: HTML5, CSS, JavaScript, and more.
 - **Programming Languages**: C++, C#, Python, Lua.
