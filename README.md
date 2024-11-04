@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adam Rushford @Autodidac
 
-[Subscribe To My Youtube For Updates!]([[https://github.com/Autodidac/CrossView](https://www.youtube.com/embed/videoseries?si=yDTZPIBk1bawH-6S)])
+[Subscribe To My Youtube For Updates!]([(https://youtube.com/playlist?list=PLsBoiWyUOHYjPWEEYhPGhA9a2TyX6rb4e&si=Dggqrlj95UdKQPJX)])
 
 
 
