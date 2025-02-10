@@ -66,6 +66,12 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 
 - **Modular System Development**: I love designing modular systems that seamlessly integrate and interact with each other, laying a strong foundation for future projects.
 
+- 📂 **Other TEMPLATE Projects**
+    - Along with the Almond Projects check out my other useful repos that are TEMPLATES!
+- ├── [vcpkg manifest mode template for cross platform cmake](https://github.com/Autodidac/cpp_cmake_vcpkg_manifest_template)
+- └── [a non vcpkg lib and example template](https://github.com/Autodidac/LinuxVsCodeCmakeClangGcc)
+- ├── [a basic c++ repo template](https://github.com/Autodidac/cpp_repo_template)
+
 I am driven by a surge in productivity, thanks to a certain digital assistant that has been instrumental in making development life much more enjoyable.
 
 ### 🌱 Always Learning
