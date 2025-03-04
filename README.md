@@ -68,8 +68,8 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 
 - 📂 **Other TEMPLATE Projects**
     - Along with the Almond Projects check out my other useful repos that are TEMPLATES!
-- ├── [Ultimate Vulkan_Project template]([https://github.com/Autodidac/cpp_cmake_vcpkg_manifest_template](https://github.com/Autodidac/Cpp20_Ultimate_Vulkan_Project_Template))
-- ├── [Ultimate Multi platform C++ template]([https://github.com/Autodidac/Cpp_Ultimate_](https://github.com/Autodidac/Cpp20_Ultimate_Project_Template))
+- ├── [Ultimate Vulkan_Project template](https://github.com/Autodidac/Cpp20_Ultimate_Vulkan_Project_Template)
+- ├── [Ultimate Multi platform C++ template](https://github.com/Autodidac/Cpp20_Ultimate_Project_Template)
 - └── [a basic c++ repo template](https://github.com/Autodidac/cpp_repo_template)
 
 I am driven by a surge in productivity, thanks to a certain digital assistant that has been instrumental in making development life much more enjoyable.
