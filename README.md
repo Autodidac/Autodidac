@@ -39,7 +39,7 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 
 - -----------|||| **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**:
 
- An x64-bit Cross platform functional header-only style C++20 Ultra Modern 4D (Time-based) Modular Game Engine and C++ cross editor build system. For literally everyone to use freely for everything, forever!
+ An x64-bit Cross platform functional header-only style C++20 Ultra Modern 4D (Time-based) Modular Game Engine and C++ cross editor build system.
 
 
 - 📂 **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**
