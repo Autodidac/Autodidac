@@ -17,19 +17,6 @@ I specialize in C++ Game Engine and Game Design and eagerly anticipate C++23 wit
 
 I'm always excited to tackle new challenges and innovate through my projects. Some of the highlights include:
 
-- **[CrossView](https://github.com/Autodidac/CrossView)**: A Bare Bones Crossplatform Entrypoint Library
-  
-  A system similar to xwindow in the spirit of Modern C++ as a core crossplatform software development base. (vc studio + vs code)
-
-
----
-- ---|| **[Almond Core](https://github.com/Autodidac/AlmondCore)**:
-
- A system inspired by allowing others to create beautiful things with the core of a game engine and allow them to create their own rendering systems while leveraging the power of Almond Engine.
- 
-
----
-
 - -------|||  **[Almond Shell](https://github.com/Autodidac/AlmondShell)**:
                     
 A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X Programs, and Modular systems, Almond Core + A Plugin Mod System to disable the limits of creativity with Almond Engine and Almond Core.
@@ -43,15 +30,7 @@ A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X P
 
 
 - 📂 **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**
-- ├── 📂 **[Almond Shell](https://github.com/Autodidac/AlmondShell)** 
-- │   └── A modular plugin system, adding flexibility and creativity to Almond Core.
-- │
-- ├── 📂 **[Almond Core](https://github.com/Autodidac/AlmondCore)** 
-- │   └── A system for building the foundation of the game engine, enabling custom rendering systems.
-- │
-- └── 📂 **[CrossView](https://github.com/Autodidac/CrossView)**
--    └── A cross-platform entry-point library for building on x64bit modern C++20 and above. (2024)
-
+- └── 📂 **[Almond Shell](https://github.com/Autodidac/AlmondShell)** 
 ----------------
 
 - **[Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)**: A system inspired by the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems, designed for generating complex and realistic tree geometries.
