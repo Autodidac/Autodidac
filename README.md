@@ -1,73 +1,104 @@
-# 👋 Hi, I’m Adam Rushford @Autodidac
+# Adam Rushford · @Autodidac
 
-[![Subscribe To My Youtube For Updates!](/images/youtube.png?raw=true)](https://youtube.com/@adamrushford)
+[![Subscribe on YouTube](/images/youtube.png?raw=true)](https://youtube.com/@adamrushford)
 
-
-
-https://youtube.com/@adamrushford
-
-I’m A Passionate Autodidactic Independent C++ Game Dev:
-  I specialize in C++ Game Engine and Game Design and eagerly anticipate C++23 with its exciting new features like modules. As an Independent Game Developer, I am now well on my way building my own open source free game engine for use in my projects and everyone else's!
-
-### 🚀 What I'm Working On
-
-I'm always excited to tackle new challenges and innovate through my projects. Some of the highlights include:
-
-- -------|||  **[Almond Shell](https://github.com/Autodidac/AlmondShell)**:
-                    
-A system inspired by the concepts of Java JRE, AutoRun executables, Ultimate X Programs, and Modular systems, Almond Core + A Plugin Mod System to disable the limits of creativity with Almond Engine and Almond Core.
-                     
+YouTube: https://youtube.com/@adamrushford  
+GitHub: https://github.com/Autodidac
 
 ---
 
-- -----------|||| **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**:
+## C++23 Engine / Graphics / Tools Programmer
 
-  https://autodidac.github.io/
-  
- An x64-bit Cross platform functional header-only style C++20 Ultra Modern 4D (Time-based) Modular Game Engine and C++ cross editor build system.
+I’m an independent C++ developer building **EpochEngine**, a modern cross-platform C++23 engine focused on rendering, editor tooling, procedural systems, automation, and AI-assisted development.
 
+My work is centered around practical high-performance software: engine architecture, graphics programming, simulation systems, toolchains, local AI workflows, and developer automation.
 
-- 📂 **[Almond Engine](https://github.com/Autodidac/AlmondEngine)**
-- └── 📂 **[Almond Shell](https://github.com/Autodidac/AlmondShell)** 
-----------------
+---
 
-- **[Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)**: A system inspired by the concepts of SpeedTree, PlantFactory, and Lindenmayer Systems, designed for generating complex and realistic tree geometries.
+## Main Project
 
-- **[Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)**: A fully open-source voxel engine written in C++, allowing for the creation of dynamic, block-based worlds.
+### [EpochEngine](https://github.com/Autodidac/EpochEngine)
 
+A C++23 modular engine project built around:
 
-- 📂 **Other Projects**
-- ├── [Tree Geometry Generator](https://github.com/Autodidac/WickedTwoOLSystem)
-- └── [Free C++ Voxel Engine](https://github.com/Autodidac/CppVoxelEngine)
+- C++23 modules
+- Cross-platform engine architecture
+- Multi-backend rendering experiments
+- Editor/runtime separation
+- Procedural and time-based simulation systems
+- Engine tooling and automation
+- AI-assisted development workflows
+- Hardware-accelerated software and game creation
 
+EpochEngine is my main long-term engine project.
 
-- **Modular System Development**: I love designing modular systems that seamlessly integrate and interact with each other, laying a strong foundation for future projects.
+---
 
-- 📂 **Other TEMPLATE Projects**
-    - Along with the Almond Projects check out my other useful repos that are TEMPLATES!
-- ├── [Ultimate Vulkan_Project template](https://github.com/Autodidac/Cpp20_Ultimate_Vulkan_Project_Template)
-- ├── [Ultimate Multi platform C++ template](https://github.com/Autodidac/Cpp20_Ultimate_Project_Template)
-- └── [a basic c++ repo template](https://github.com/Autodidac/cpp_repo_template)
+## Cool Tools / Research Projects
 
-I am driven by a surge in productivity, thanks to a certain digital assistant that has been instrumental in making development life much more enjoyable.
+### [Mnemosyne](https://github.com/Autodidac/Mnemosyne)
 
-### 🌱 Always Learning
+A local AI / MCP-oriented project exploring self-improving AI workflows, training loops, gated automation, and engine-connected intelligence systems.
 
-I thrive on learning new things and constantly improving my skills, especially in the realms of game development and high-performance programming. I'm always open to exploring cutting-edge technologies and methodologies to push the boundaries of what can be achieved.
+### [Cpp23_CodeCollectionAndUtilities](https://github.com/Autodidac/Cpp23_CodeCollectionAndUtilities)
 
-### 🎯 Goals
+A collection of C++23 utilities, experiments, orphaned tools, and reusable code intended for modern engine/tool development.
 
-- Continue expanding my knowledge in contemporary C++ and explore C++23's new features.
-- Develop more sophisticated tools and engines for game development.
-- Foster a community of like-minded developers to collaborate on exciting projects.
+### [Cpp23_Module-Modular_Modern_Utility_Libraries](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Utility_Libraries)
 
-### 🔗 Connect with Me
+A C++23 module-based utility library/template project for modern modular code organization.
 
-Feel free to explore my repositories, contribute, or reach out if you want to collaborate on an exciting project!
+### [Cpp23_Module-Modular_Modern_Odds_Lib](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Odds_Lib)
 
-- [Explore My GitHub Repositories](https://github.com/Autodidac?tab=repositories)
+A fast math and cached-random utility project focused on practical runtime helpers and experimental performance-oriented utilities.
 
-<!---
-Autodidac/Autodidac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### [Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper](https://github.com/Autodidac/Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper)
+
+A proper C++23 Vulkan example using vcpkg manifest mode, validation setup, and automatic device selection.
+
+### [WinClassicGuiEditor](https://github.com/Autodidac/WinClassicGuiEditor)
+
+A Windows GUI editor/tooling experiment for rapid interface creation, launchers, and utility software.
+
+### [WickedTwoOLSystem](https://github.com/Autodidac/WickedTwoOLSystem)
+
+A procedural tree geometry generator inspired by L-systems, SpeedTree-style workflows, and generated natural forms.
+
+### [CppVoxelEngine](https://github.com/Autodidac/CppVoxelEngine)
+
+A C++ voxel engine experiment focused on block-based world generation and rendering.
+
+---
+
+## Current Focus
+
+- Building EpochEngine into a usable modern C++23 engine
+- Stabilizing editor, windowing, and rendering backend systems
+- Expanding procedural generation and simulation tools
+- Improving asset, shader, and project workflows
+- Building AI-assisted development automation around the engine
+- Keeping the codebase fast, modular, practical, and maintainable
+
+---
+
+## Development Direction
+
+My long-term goal is to build a serious C++ engine and tool ecosystem that supports:
+
+- Game development
+- Real-time simulation
+- Procedural content generation
+- Engine-integrated AI tooling
+- Automated build/test/verify loops
+- Cross-platform software creation
+
+The target is not just another engine repo. The goal is a working system for building, testing, automating, and shipping real projects.
+
+---
+
+## Connect
+
+- GitHub: https://github.com/Autodidac
+- YouTube: https://youtube.com/@adamrushford
+
+Contributions, feedback, and collaboration are welcome.
