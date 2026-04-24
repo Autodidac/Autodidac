@@ -183,13 +183,13 @@ It is an AI-enabled engine/editor/application platform for building games, softw
 
 ## Supporting Work
 
-I’ve built a lot of older experiments around procedural generation, voxel engines, Vulkan setup, Win32 tooling, C++ utilities, templates, and local AI/MCP-style workflows.
+I’ve built older experiments around procedural generation, voxel engines, Vulkan setup, Win32 tooling, C++ utilities, templates, and local AI/MCP-style workflows.
 
 Those projects are not the main focus anymore.
 
 They are background research and tool fragments feeding into the bigger system.
 
-EpochEngine is the shining star.
+EpochEngine is the flagship.
 
 ---
 
@@ -209,6 +209,17 @@ My goal is to build a serious C++23 engine and AI-enabled creative software plat
 - Cross-platform application creation
 
 The target is a working engine ecosystem that helps create, test, automate, improve, and ship real projects.
+
+---
+
+## Follow the Build
+
+I’m documenting the EpochEngine development journey on YouTube while building the engine over the next two years.
+
+- YouTube: https://youtube.com/@adamrushford
+- EpochEngine: https://github.com/Autodidac/EpochEngine
+
+The goal is to grow the engine, tooling, demos, and community together — pushing toward a usable C++23 engine platform and a stronger public development presence.
 
 ---
 
