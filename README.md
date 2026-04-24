@@ -7,13 +7,13 @@ GitHub: https://github.com/Autodidac
 
 ---
 
-## C++23 Engine / Graphics / Tools Programmer
+## C++23 Engine Architect / Graphics Programmer / AI-Enabled Software Developer
 
-I’m an independent C++ developer building **EpochEngine**, a modern cross-platform C++23 engine, editor, automation platform, and AI-enabled development environment.
+I’m building **EpochEngine**: a modern C++23 creative software and game engine platform for building games, tools, editors, simulations, pipelines, and AI-enabled applications from one serious engine codebase.
 
-EpochEngine is not just a “game engine” by name. It is being built to support actual games, real-time software, simulation tools, procedural systems, AI-assisted workflows, automated development loops, and engine-integrated tooling.
+Epoch is not just another “game engine” repo.
 
-My work centers on practical high-performance software: rendering, engine architecture, editor systems, C++23 modules, local AI workflows, procedural generation, build automation, and self-verifying development pipelines.
+It is being designed as an engine, editor, runtime, automation layer, AI development surface, and software creation platform — with actual game support included instead of using “game engine” as a label for tech demos.
 
 ---
 
@@ -21,122 +21,165 @@ My work centers on practical high-performance software: rendering, engine archit
 
 ### [EpochEngine](https://github.com/Autodidac/EpochEngine)
 
-**EpochEngine** is my main long-term project: a modern C++23 modular engine designed for games, tools, simulations, AI-enabled software, and automated development workflows.
+**EpochEngine** is my main project and the center of my development ecosystem.
 
-The goal is not to clone older engine models. Unreal, Unity, and Godot are powerful engines, but their core designs come from earlier eras of engine development: editor-first workflows, asset pipelines, scripting layers, plugin ecosystems, and human-driven iteration.
+It is a C++23 modular engine and creative software platform focused on:
 
-EpochEngine is being designed around a newer direction:
+- Real game development
+- AI-enabled software
+- Editor-driven workflows
+- Runtime project execution
+- Multi-backend rendering
+- Procedural and time-based simulation
+- Automated development loops
+- Engine-aware AI tooling
+- Cross-platform software creation
 
-- C++23 modules-first architecture
-- Cross-platform engine/runtime separation
-- Multi-backend rendering experiments
-- Real game/runtime support, not only editor demos
-- Editor tooling built as part of the engine ecosystem
-- Procedural and time-based simulation systems
-- AI-assisted software and game creation
-- Local AI integration and MCP-style tool control
-- Self-verifying build/test/run/capture loops
-- AI-assisted refactoring, testing, and iteration
-- Training-data capture from real development workflows
-- Piggybacking stronger AI systems to improve local tools and engine intelligence
-- Future-facing automation for code, assets, tests, scenes, and gameplay systems
+Epoch is built around a modern engine direction, not the older design assumptions behind traditional engines.
 
-EpochEngine is the center of the ecosystem.
+Unreal, Unity, and Godot are powerful, proven systems, but their core workflows come from earlier generations of engine design: editor-first usage, asset-pipeline-heavy development, scripting-layer separation, plugin ecosystems, and mostly human-driven iteration.
+
+EpochEngine is being pushed toward the next model:
+
+- The engine owns more of the development loop.
+- The editor is not just a GUI; it is part of the automation surface.
+- The runtime is not just for games; it supports tools, software, simulations, and generated projects.
+- AI is not bolted on as a gimmick; it is intended to operate, inspect, test, train, and improve the engine workflow.
+- Development output can become training data.
+- Stronger external AI systems can be used to piggyback and improve local engine intelligence.
+- Build, run, capture, verify, diagnose, and iterate loops are first-class goals.
+
+The point is not to copy old engines.
+
+The point is to build an AI-enabled software and game creation system.
 
 ---
 
-## AI-Enabled Development Direction
+## What Epoch Is Becoming
 
-A major focus of EpochEngine is **AI self-iteration**: using AI not just as a chat assistant, but as part of the engine’s development loop.
+EpochEngine is being built as:
+
+- A C++23 modules-first engine
+- A real-time renderer and runtime
+- A game development framework
+- A creative software platform
+- A project generator
+- An editor and tooling application
+- A simulation system
+- A procedural content foundation
+- An AI-assisted development environment
+- A self-verifying build/test/run platform
+- A training-data source for future AI workflows
+
+This is meant to support actual games, actual tools, actual software, and actual automated development.
+
+Not just screenshots.
+
+Not just samples.
+
+Not just another editor shell.
+
+---
+
+## AI Self-Iteration Direction
+
+A major part of EpochEngine is the AI development loop.
 
 The direction includes:
 
-- AI-assisted code generation and refactoring
-- Automated build and verification passes
-- Runtime testing with screenshots, logs, captures, and validation artifacts
-- Engine-aware tooling that can inspect, modify, build, run, and verify changes
-- Local model support for fast repeated tasks
-- Larger external models used as stronger reasoning/planning helpers
-- Training-data generation from real engine interactions
-- Curated promotion of successful fixes, patterns, and examples
-- AI-enabled editor workflows for games, tools, scenes, assets, and simulations
+- AI-assisted coding
+- AI-assisted refactoring
+- AI-assisted debugging
+- Engine-aware task execution
+- Automated build verification
+- Runtime launch and capture validation
+- Screenshot/log/artifact-based testing
+- Training-data generation from real engine use
+- Local AI model integration
+- External model piggybacking for stronger planning and review
+- Curated promotion of successful fixes and workflows
+- Engine-integrated AI control surfaces
 
-The goal is an engine/editor that does more than wait for a developer to click buttons. It should help build, test, diagnose, improve, and eventually automate large parts of the development process.
+The long-term goal is for Epoch to help build Epoch.
+
+That means the editor, runtime, build tools, diagnostics, scripts, datasets, and AI control layer all move toward one connected development system.
 
 ---
 
-## Not Just a Traditional Game Engine
+## Why Epoch Is Different
 
-Traditional engines are usually built around:
-
-- A renderer
-- An editor
-- A scripting system
-- An asset pipeline
-- A plugin model
-- Manual build/test/debug cycles
-
-EpochEngine is being pushed toward a broader model:
+Traditional engines usually separate the world into:
 
 - Engine
 - Editor
 - Runtime
-- Automation layer
-- AI development assistant
-- Simulation platform
-- Game framework
-- Software/tool creation environment
-- Self-verifying build system
-- Training-data generator for future AI workflows
+- Scripting
+- Plugins
+- Build tools
+- External automation
+- External AI assistants
 
-That makes EpochEngine closer to an **AI-enabled development application and editor** than a normal engine repo.
+EpochEngine is being designed to pull more of that into one connected system:
 
-The goal is to support actual games and real-time applications while also building the tools that help create them.
+- Engine + editor + runtime
+- Game + software project support
+- AI-assisted development
+- Automated verification
+- Local/external model cooperation
+- Runtime captures and diagnostics
+- C++23 scripting compiled with the engine/project
+- Project shells for real generated work
+- Tooling that can eventually inspect and improve the system it belongs to
 
----
+That is the real difference.
 
-## Supporting Work
+Epoch is not only a game engine.
 
-I’ve built and explored several related C++ and tooling projects over time, including procedural generation experiments, voxel engine work, Vulkan examples, Win32 tooling, local AI/MCP experiments, and modern C++ utility libraries.
-
-Some of those projects are older or experimental, but they helped shape systems now being folded into EpochEngine.
-
-Current supporting repos worth checking out:
-
-- [Cpp23_CodeCollectionAndUtilities](https://github.com/Autodidac/Cpp23_CodeCollectionAndUtilities)
-- [Cpp23_Module-Modular_Modern_Utility_Libraries](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Utility_Libraries)
-- [Cpp23_Module-Modular_Modern_Odds_Lib](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Odds_Lib)
-- [Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper](https://github.com/Autodidac/Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper)
-- [WinClassicGuiEditor](https://github.com/Autodidac/WinClassicGuiEditor)
+It is an AI-enabled engine/editor/application platform for building games, software, tools, and future automated development workflows.
 
 ---
 
 ## Current Focus
 
-- Building EpochEngine into a usable modern C++23 engine
-- Stabilizing editor, windowing, and rendering backend systems
-- Improving rendering, asset, shader, and project workflows
-- Expanding procedural generation and simulation systems
-- Building AI-assisted development automation around the engine
-- Adding actual game/runtime functionality, not just engine scaffolding
+- Building EpochEngine into a usable C++23 engine platform
+- Stabilizing editor, launcher, windowing, and rendering systems
+- Expanding multi-context rendering across supported backends
+- Improving asset, shader, GUI, and project workflows
+- Building stronger runtime/project shell support
+- Adding actual game-facing systems
+- Developing AI-assisted build/test/verify workflows
+- Connecting local and external AI tooling into the engine workflow
 - Keeping the codebase fast, modular, practical, and maintainable
 
 ---
 
-## Development Direction
+## Supporting Work
 
-My long-term goal is to build a serious C++ engine and tool ecosystem that supports:
+I’ve built a lot of older experiments around procedural generation, voxel engines, Vulkan setup, Win32 tooling, C++ utilities, templates, and local AI/MCP-style workflows.
 
-- Game development
+Those projects are not the main focus anymore.
+
+They are background research and tool fragments feeding into the bigger system.
+
+EpochEngine is the shining star.
+
+---
+
+## Development Goal
+
+My goal is to build a serious C++23 engine and AI-enabled creative software platform that can support:
+
+- Games
+- Tools
+- Editors
+- Simulations
+- Procedural systems
 - AI-enabled software
-- Real-time simulation
-- Procedural content generation
-- Engine-integrated AI tooling
-- Automated build/test/verify loops
+- Runtime project generation
+- Automated development workflows
 - Cross-platform application creation
-- Editor-driven and AI-driven workflows
 
-The target is not just another engine repo. The goal is a working system for building, testing, automating, and shipping real projects.
+The target is a working engine ecosystem that helps create, test, automate, and ship real projects.
 
 ---
 
@@ -145,4 +188,4 @@ The target is not just another engine repo. The goal is a working system for bui
 - GitHub: https://github.com/Autodidac
 - YouTube: https://youtube.com/@adamrushford
 
-Contributions, feedback, and collaboration are welcome.
+Contributions, feedback, testing, and collaboration are welcome.
