@@ -17,6 +17,20 @@ It is being designed as an engine, editor, runtime, automation layer, AI develop
 
 ---
 
+## EpochEngine AI Architecture
+
+![EpochEngine AI Architecture](images/epochengine_ai_architecture.png)
+
+EpochEngine is designed around a loop where the engine, editor, runtime, local AI models, embedded models, external MCP-connected helpers, and verification systems all work together.
+
+The goal is simple:
+
+**Build the project, test the project, learn from the work, improve the engine, and repeat.**
+
+That means Epoch is not only using AI as a side assistant. AI is part of the development structure.
+
+---
+
 ## Main Project
 
 ### [EpochEngine](https://github.com/Autodidac/EpochEngine)
@@ -46,6 +60,9 @@ EpochEngine is being pushed toward the next model:
 - The runtime is not just for games; it supports tools, software, simulations, and generated projects.
 - AI is not bolted on as a gimmick; it is intended to operate, inspect, test, train, and improve the engine workflow.
 - Development output can become training data.
+- Local embedded models can ship inside games, tools, and applications when useful.
+- Additional local models can assist the editor/runtime without forcing everything through one model.
+- MCP-connected helpers can extend the system with stronger external planning, coding, review, asset, and automation tools.
 - Stronger external AI systems can be used to piggyback and improve local engine intelligence.
 - Build, run, capture, verify, diagnose, and iterate loops are first-class goals.
 
@@ -70,6 +87,8 @@ EpochEngine is being built as:
 - An AI-assisted development environment
 - A self-verifying build/test/run platform
 - A training-data source for future AI workflows
+- A host for embedded local AI models in games and applications
+- A control surface for MCP-connected external and local AI helpers
 
 This is meant to support actual games, actual tools, actual software, and actual automated development.
 
@@ -96,13 +115,17 @@ The direction includes:
 - Screenshot/log/artifact-based testing
 - Training-data generation from real engine use
 - Local AI model integration
+- Embedded model support inside generated projects
+- Additional local model support for specialized runtime/editor tasks
 - External model piggybacking for stronger planning and review
+- MCP-connected tools, models, and automation workers
 - Curated promotion of successful fixes and workflows
 - Engine-integrated AI control surfaces
+- Internal coding, upgrading, testing, and verification loops
 
 The long-term goal is for Epoch to help build Epoch.
 
-That means the editor, runtime, build tools, diagnostics, scripts, datasets, and AI control layer all move toward one connected development system.
+That means the editor, runtime, build tools, diagnostics, scripts, datasets, MCP tools, embedded models, and AI control layer all move toward one connected development system.
 
 ---
 
@@ -123,6 +146,10 @@ EpochEngine is being designed to pull more of that into one connected system:
 
 - Engine + editor + runtime
 - Game + software project support
+- Internal AI development loop
+- Embedded local models
+- Additional local helper models
+- MCP-connected external helpers
 - AI-assisted development
 - Automated verification
 - Local/external model cooperation
@@ -149,6 +176,7 @@ It is an AI-enabled engine/editor/application platform for building games, softw
 - Adding actual game-facing systems
 - Developing AI-assisted build/test/verify workflows
 - Connecting local and external AI tooling into the engine workflow
+- Supporting embedded local models inside generated software and games
 - Keeping the codebase fast, modular, practical, and maintainable
 
 ---
@@ -175,11 +203,12 @@ My goal is to build a serious C++23 engine and AI-enabled creative software plat
 - Simulations
 - Procedural systems
 - AI-enabled software
+- Embedded AI applications
 - Runtime project generation
 - Automated development workflows
 - Cross-platform application creation
 
-The target is a working engine ecosystem that helps create, test, automate, and ship real projects.
+The target is a working engine ecosystem that helps create, test, automate, improve, and ship real projects.
 
 ---
 
