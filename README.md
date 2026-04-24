@@ -19,54 +19,37 @@ My work is centered around practical high-performance software: engine architect
 
 ### [EpochEngine](https://github.com/Autodidac/EpochEngine)
 
-A C++23 modular engine project built around:
+**EpochEngine** is my main long-term project: a modern C++23 modular engine built for real-time software, games, simulation, tools, and automation.
+
+Core focus areas:
 
 - C++23 modules
 - Cross-platform engine architecture
 - Multi-backend rendering experiments
 - Editor/runtime separation
 - Procedural and time-based simulation systems
-- Engine tooling and automation
-- AI-assisted development workflows
-- Hardware-accelerated software and game creation
+- Asset, shader, and tooling workflows
+- AI-assisted development automation
+- Build/test/verify loops
+- Hardware-aware performance scaling
 
-EpochEngine is my main long-term engine project.
+EpochEngine is the center of the ecosystem.
 
 ---
 
-## Cool Tools / Research Projects
+## Supporting Work
 
-### [Mnemosyne](https://github.com/Autodidac/Mnemosyne)
+I’ve also built and explored several related C++ and tooling projects over time, including procedural generation experiments, voxel engine work, Vulkan examples, Win32 tooling, local AI/MCP experiments, and modern C++ utility libraries.
 
-A local AI / MCP-oriented project exploring self-improving AI workflows, training loops, gated automation, and engine-connected intelligence systems.
+Some of those projects are older or experimental, but they helped shape the systems now being folded into EpochEngine.
 
-### [Cpp23_CodeCollectionAndUtilities](https://github.com/Autodidac/Cpp23_CodeCollectionAndUtilities)
+Current supporting repos worth checking out:
 
-A collection of C++23 utilities, experiments, orphaned tools, and reusable code intended for modern engine/tool development.
-
-### [Cpp23_Module-Modular_Modern_Utility_Libraries](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Utility_Libraries)
-
-A C++23 module-based utility library/template project for modern modular code organization.
-
-### [Cpp23_Module-Modular_Modern_Odds_Lib](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Odds_Lib)
-
-A fast math and cached-random utility project focused on practical runtime helpers and experimental performance-oriented utilities.
-
-### [Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper](https://github.com/Autodidac/Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper)
-
-A proper C++23 Vulkan example using vcpkg manifest mode, validation setup, and automatic device selection.
-
-### [WinClassicGuiEditor](https://github.com/Autodidac/WinClassicGuiEditor)
-
-A Windows GUI editor/tooling experiment for rapid interface creation, launchers, and utility software.
-
-### [WickedTwoOLSystem](https://github.com/Autodidac/WickedTwoOLSystem)
-
-A procedural tree geometry generator inspired by L-systems, SpeedTree-style workflows, and generated natural forms.
-
-### [CppVoxelEngine](https://github.com/Autodidac/CppVoxelEngine)
-
-A C++ voxel engine experiment focused on block-based world generation and rendering.
+- [Cpp23_CodeCollectionAndUtilities](https://github.com/Autodidac/Cpp23_CodeCollectionAndUtilities)
+- [Cpp23_Module-Modular_Modern_Utility_Libraries](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Utility_Libraries)
+- [Cpp23_Module-Modular_Modern_Odds_Lib](https://github.com/Autodidac/Cpp23_Module-Modular_Modern_Odds_Lib)
+- [Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper](https://github.com/Autodidac/Cpp23_Cross_Platform_Vulkan_Example_Cube_Proper)
+- [WinClassicGuiEditor](https://github.com/Autodidac/WinClassicGuiEditor)
 
 ---
 
@@ -74,8 +57,8 @@ A C++ voxel engine experiment focused on block-based world generation and render
 
 - Building EpochEngine into a usable modern C++23 engine
 - Stabilizing editor, windowing, and rendering backend systems
-- Expanding procedural generation and simulation tools
-- Improving asset, shader, and project workflows
+- Improving rendering, asset, shader, and project workflows
+- Expanding procedural generation and simulation systems
 - Building AI-assisted development automation around the engine
 - Keeping the codebase fast, modular, practical, and maintainable
 
