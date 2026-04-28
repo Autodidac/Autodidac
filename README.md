@@ -4,6 +4,7 @@
 
 YouTube: https://youtube.com/@adamrushford  
 GitHub: https://github.com/Autodidac
+Frontend toy projects: https://Autodidac.github.io
 
 ---
 
@@ -227,5 +228,6 @@ The goal is to grow the engine, tooling, demos, and community together — pushi
 
 - GitHub: https://github.com/Autodidac
 - YouTube: https://youtube.com/@adamrushford
+- Frontend toy projects: https://Autodidac.github.io
 
 Contributions, feedback, testing, and collaboration are welcome.
