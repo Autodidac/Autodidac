@@ -3,7 +3,7 @@
 [![Subscribe on YouTube](/images/youtube.png?raw=true)](https://youtube.com/@adamrushford)
 
 YouTube: https://youtube.com/@adamrushford  
-GitHub: https://github.com/Autodidac
+GitHub: https://github.com/Autodidac  
 Frontend toy projects: https://Autodidac.github.io
 
 ---
