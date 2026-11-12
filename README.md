@@ -36,7 +36,7 @@ EpochEngine is my flagship project. [Public source v0.91.07](https://github.com/
 - AI-enabled software and tools
 - Editor workflows for 3D scenes, 2D tile maps, and UI layouts
 - Project generation, build, and runtime execution
-- OpenGL, Direct3D 11, Vulkan, and software rendering with platform-specific coverage
+- Desktop rendering through OpenGL, Direct3D 11 on Windows, Vulkan, SDL3, SFML 3, raylib, and a CPU software path. [Backend and platform coverage](https://github.com/Autodidac/EpochEngine#renderer-and-driver-support)
 - Procedural and time-based simulation, including optional terrain and FFT ocean tools
 - Automated development loops
 - Engine-aware AI tooling and the Public Project Assistant
