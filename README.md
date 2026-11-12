@@ -3,7 +3,6 @@
 [![Subscribe on YouTube](/images/youtube.png?raw=true)](https://youtube.com/@adamrushford)
 
 YouTube: https://youtube.com/@adamrushford  
-GitHub: https://github.com/Autodidac  
 Frontend toy projects: https://Autodidac.github.io
 
 ---
@@ -179,7 +178,6 @@ I’m documenting the two-year EpochEngine build on YouTube while growing the en
 
 ## Connect
 
-- GitHub: https://github.com/Autodidac
 - YouTube: https://youtube.com/@adamrushford
 - Frontend toy projects: https://Autodidac.github.io
 
